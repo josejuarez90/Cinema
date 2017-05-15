@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Cinema</title>
+<h1>Cinema</h1>
 <body>
 
 <i>a list of films that I admire</i>
