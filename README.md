@@ -3,9 +3,9 @@
 <h1>Cinema</h1>
 <body>
 
-<i>a list of films that I admire.</i>
+<i>a list of films that I admire*.</i>
 
-<i>wtih all my heart(in no particular order):</i>
+<b>wtih all my heart (in no particular order):</b>
 <ul>  
 <li><p><a href="http://www.imdb.com/title/tt1226236/?ref_=nv_sr_1"><i>I Am Love</i></a> (Io sono l'amore, 2009)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt1602620/?ref_=nv_sr_1"><i>Amour</i></a> (2012)</p></li>
@@ -22,6 +22,7 @@
 <li><p><a href="http://www.imdb.com/title/tt2802154/?ref_=nv_sr_1"><i>Leviathan</i></a> (Leviafan, 2014)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt2334873/?ref_=nv_sr_1"><i>Blue Jasmine</i></a> (2013)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0405094/?ref_=nv_sr_2"><i>The Lives of Others</i></a> (Das Leben der Anderen, 2006)</p></li>
+<li><p><a href="http://www.imdb.com/title/tt0404203/?ref_=fn_al_tt_1"><i>Little Children</i></a> (2006)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0405094/?ref_=nv_sr_2"><i>High and Low</i></a> (Tengoku to jigoku, 1963)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0405094/?ref_=nv_sr_2"><i>Embrace of the Serpent</i></a> (El abrazo de la serpiente, 2015)</p></li>
 
