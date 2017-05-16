@@ -7,7 +7,7 @@
 
 <b>with all my heart (in no particular order):</b>
 <ul>  
-<li><p><a href="http://www.imdb.com/title/tt1226236/?ref_=nv_sr_1"><i>I Am Love</i></a> (Io sono l'amore, 2009)</p></li>
+<li><p><a href="http://www.imdb.com/title/tt1226236/?ref_=nv_sr_1"><i>I Am Love</i></a> (Io sono l'amore, 2009)</p></li>🇮🇹
 <li><p><a href="http://www.imdb.com/title/tt1602620/?ref_=nv_sr_1"><i>Amour</i></a> (2012)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt2402927/?ref_=nv_sr_1"><i>Carol</i></a> (2015)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0040522/?ref_=nv_sr_1"><i>Bicycle Thieves</i></a> (Ladri di biciclette, 1948)</p></li>
