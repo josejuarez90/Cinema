@@ -6,11 +6,14 @@
 <i>a list of films that I admire.</i>
 
 
-<p>wtih all my heart (in no particular order):</p>
+<p>wtih all my<p style="color:red;">heart</p> <p>(in no particular order):</p>
 <ul>  
 <li><p><a href="http://www.imdb.com/title/tt1226236/?ref_=nv_sr_1"><i>I Am Love</i></a> (Io sono l'amore, 2009)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt1602620/?ref_=nv_sr_1"><i>Amour</i></a> (2012)</p></li>
+<li><p><a href="http://www.imdb.com/title/tt2402927/?ref_=nv_sr_1"><i>Carol</i></a> (2015)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0040522/?ref_=nv_sr_1"><i>Bicycle Thieves</i></a> (Ladri di biciclette, 1948)</p></li>
+<li><p><a href="http://www.imdb.com/title/tt0959337/?ref_=nv_sr_2"><i>Revolutionary Road</i></a> (2008)</p></li>
+<li><p><a href="http://www.imdb.com/title/tt0206634/?ref_=nv_sr_1"><i>Children of Men</i></a> (2006)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt1149362/?ref_=nv_sr_1"><i>The White Ribbon</i></a> (Das weiße Band - Eine deutsche Kindergeschichte, 2009)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0118694/?ref_=nv_sr_1"><i>In The Mood for Love</i></a> (Faa yeung nin wa, 2000)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0087884/?ref_=nv_sr_1"><i>Paris, Texas</i></a> (1984)</p></li>
