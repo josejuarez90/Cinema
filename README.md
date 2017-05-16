@@ -5,7 +5,7 @@
 
 <i>a list of films that I admire*</i>
 
-<b>wtih all my heart (in no particular order):</b>
+<b>with all my heart (in no particular order):</b>
 <ul>  
 <li><p><a href="http://www.imdb.com/title/tt1226236/?ref_=nv_sr_1"><i>I Am Love</i></a> (Io sono l'amore, 2009)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt1602620/?ref_=nv_sr_1"><i>Amour</i></a> (2012)</p></li>
