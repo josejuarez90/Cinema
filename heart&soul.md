@@ -19,7 +19,7 @@ with all my heart (in no particular order):</b></i>
 <li><p><a href="http://www.imdb.com/title/tt0087884/?ref_=nv_sr_1"><i>Paris, Texas</i></a> (1984) 🇺🇸/🇩🇪 </p></li>
 <li><p><a href="http://www.imdb.com/title/tt0053198/?ref_=nv_sr_1"><i>400 Blows</i></a> (Les quatre cents coups, 1959) 🇫🇷</p></li>
 <li><p><a href="http://www.imdb.com/title/tt1723811/?ref_=fn_al_tt_2"><i>Shame</i></a> (2011)🇺🇸</p></li>
-<li><p><a href="http://www.imdb.com/title/tt0913425/?ref_=nv_sr_1"><i>Broken Embraces</i></a> (Los abrazos rotos, 2009 🇪🇸</p></li>
+<li><p><a href="http://www.imdb.com/title/tt0913425/?ref_=nv_sr_1"><i>Broken Embraces</i></a> (Los abrazos rotos, 2009) 🇪🇸</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0469494/?ref_=nv_sr_1"><i>There Will Be Blood</i></a> (2007)🇺🇸</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0052893/?ref_=nv_sr_1"><i>Hiroshima, My Love</i></a> (Hiroshima mon amour, 1959) 🇫🇷 </p></li>
 <li><p><a href="http://www.imdb.com/title/tt2802154/?ref_=nv_sr_1"><i>Leviathan</i></a> (Leviafan, 2014) 🇷🇺</p></li>
@@ -33,7 +33,7 @@ with all my heart (in no particular order):</b></i>
 
 </ul>
 
-<p>* it should be noted that it was incredibly difficult to <i>decide</i> what to put on this list--i hope you enjoy it. </p>
+<p>* it should be noted that it was incredibly difficult to <i>decide</i> what to put on this list--I hope you enjoy it. </p>
 
 </body>
 </html>
