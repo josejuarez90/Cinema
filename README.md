@@ -26,11 +26,11 @@
 <li><p><a href="http://www.imdb.com/title/tt0405094/?ref_=nv_sr_2"><i>High and Low</i></a> (Tengoku to jigoku, 1963)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0405094/?ref_=nv_sr_2"><i>Embrace of the Serpent</i></a> (El abrazo de la serpiente, 2015)</p></li>
 <li><p><a href="http://www.imdb.com/title/tt0117571/?ref_=nv_sr_2"><i>Scream</i></a> (1996)</p></li>
-<li><p><a href="http://www.imdb.com/title/tt0054997/?ref_=nv_sr_1"><i>The Huslter</i></a> (1961)</p></li>
+<li><p><a href="http://www.imdb.com/title/tt0054997/?ref_=nv_sr_1"><i>The Hustler</i></a> (1961)</p></li>
 
 </ul>
 
-<i>* it should be noted that it was incredibly difficult to compose this list, i hope you enjoy it. </i>
+<p>* it should be noted that it was incredibly difficult to <i>decide</i> what to put on this list--i hope you enjoy it. </p>
 
 </body>
 </html>
